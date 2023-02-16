@@ -7,3 +7,7 @@
 *.ntvs*
 *.njsproj
 *.sln
+
+Practical2/capture_affine
+Practical2/capture_mesh
+Practical2/capture_rigid
